@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="moneda_actual">Moneda actual:</string>
+    <string name="moneda_cambio">Moneda Cambio:</string>
+    <string name="valor_a_cambiar">Valor a Cambiar:</string>
+    <string name="button">Button</string>
+    <string name="cambiar">Cambiar</string>
+    <string name="acerca_de">Acerca De</string>
+    <string name="resultado">Resultado:</string>
+</resources>
